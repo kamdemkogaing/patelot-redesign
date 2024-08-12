@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="91px" viewBox="0 0 90 91" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>play-btn-video-active</title>
+    <g id="video-modules" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02_video-module-dark-example-one" transform="translate(-675.000000, -1032.000000)">
+            <g id="full-video-module" transform="translate(0.000000, 750.000000)">
+                <g id="HEADLINE-Subheadline-Play-Btn" transform="translate(344.000000, 133.000000)">
+                    <g id="play-btn-video-active" transform="translate(331.000000, 149.271457)">
+                        <circle id="Circle-Play-Btn-active" fill-opacity="0.9" fill="#099DCC" cx="45" cy="45" r="45"></circle>
+                        <path d="M50.0038224,34.9304278 L61.1402236,56.3465838 C61.4285094,56.9009796 61.2127846,57.584108 60.6583888,57.8723939 C60.497165,57.9562302 60.3181197,58 60.1364011,58 L37.8635989,58 C37.2387281,58 36.7321703,57.4934422 36.7321703,56.8685714 C36.7321703,56.6868528 36.7759401,56.5078076 36.8597764,56.3465838 L47.9961776,34.9304278 C48.2844634,34.3760319 48.9675918,34.1603072 49.5219877,34.448593 C49.7282975,34.5558741 49.8965413,34.724118 50.0038224,34.9304278 Z" id="Triangle-Play-Btn-active" fill="#FFFFFF" transform="translate(49.000000, 45.500000) rotate(-270.000000) translate(-49.000000, -45.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

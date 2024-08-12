@@ -1,0 +1,10 @@
+<svg id="ICON" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001b41;
+      }
+    </style>
+  </defs>
+  <path id="ic-s24-regular-fullscreen-contract" class="cls-1" d="M20.707,4.707,16.414,9H18a1,1,0,0,1,0,2H14a1,1,0,0,1-1-1V6a1,1,0,0,1,2,0V7.586l4.293-4.293a1,1,0,1,1,1.414,1.414ZM10,13H6a1,1,0,0,0,0,2H7.586L3.293,19.293a1,1,0,1,0,1.414,1.414L9,16.414V18a1,1,0,0,0,2,0V14A1,1,0,0,0,10,13Z"/>
+</svg>

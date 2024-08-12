@@ -1,0 +1,23 @@
+<svg id="ICON" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #001b41;
+      }
+    </style>
+  </defs>
+  <g id="ic-s24-regular-circle-not-allowed">
+    <g id="background" class="cls-1">
+      <path class="cls-2" d="M12,22A10,10,0,1,1,22,12,10,10,0,0,1,12,22Z"/>
+    </g>
+    <path id="content" class="cls-3" d="M12,2A10,10,0,1,0,22,12,10.011,10.011,0,0,0,12,2ZM4,12A7.953,7.953,0,0,1,5.688,7.1L16.9,18.312A7.987,7.987,0,0,1,4,12Zm14.312,4.9L7.1,5.688A7.987,7.987,0,0,1,18.312,16.9Z"/>
+  </g>
+</svg>

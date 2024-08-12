@@ -1,0 +1,18 @@
+<svg id="ICON" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #001b41;
+      }
+    </style>
+  </defs>
+  <g id="ic-s24-regular-lock-closed">
+    <rect id="background" class="cls-1" x="6" y="11" width="12.001" height="9"/>
+    <path id="content" class="cls-2" d="M18,9H17V7A5,5,0,0,0,7,7V9H6a2,2,0,0,0-2,2v9a2,2,0,0,0,2,2H18a2,2,0,0,0,2-2V11A2,2,0,0,0,18,9ZM9,7a3,3,0,0,1,6,0V9H9ZM6,20V11H18v9Zm7-5v1a1,1,0,0,1-2,0V15a1,1,0,0,1,2,0Z"/>
+  </g>
+</svg>

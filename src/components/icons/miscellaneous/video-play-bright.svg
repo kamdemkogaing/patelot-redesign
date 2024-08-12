@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="46px" height="50px"
+     viewBox="0 0 46 50" version="1.1">
+    <title>PlayBtnArrow</title>
+    <g id="video-modules" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_video-module_adaptions-animated-PlayBtn" transform="translate(-1002.000000, -1253.000000)"
+            fill="#FFFFFF">
+            <g id="video-module-adaptions" transform="translate(-265.000000, 794.000000)">
+                <g id="PlayBtn-Typo" transform="translate(1190.000000, 387.000000)">
+                    <path
+                        d="M121.9,98.9 L80.3,121.6 C79.7836427,121.882528 79.1756052,121.946361 78.6118313,121.777229 C78.0480574,121.608097 77.5755675,121.220105 77.3,120.7 C77.0953883,120.370208 76.9911518,119.988008 77,119.6 L77,74.4 C77.0239516,73.6212501 77.4405188,72.9075696 78.106819,72.5037513 C78.7731191,72.099933 79.5985544,72.0608847 80.3,72.4 L121.9,95.1 C122.947188,95.7091592 123.304827,97.0503034 122.7,98.1 C122.486485,98.4149914 122.214991,98.686485 121.9,98.9 L121.9,98.9 Z"
+                        id="PlayBtnArrow" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

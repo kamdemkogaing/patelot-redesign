@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="242px" viewBox="0 0 300 242" version="1.1" xmlns="http://www.w3.org/2000/svg"
+>
+    <title>quote-visual.bg</title>
+    <defs>
+        <linearGradient x1="103.73153%" y1="15.7352663%" x2="17.3035643%" y2="95.9275932%" id="linearGradient-1">
+            <stop stop-color="#FFFADD" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="video-modules" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03_video-module-&quot;Media/Text&quot;" transform="translate(0.000000, -918.000000)"
+            fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="video-module-adaptions" transform="translate(-121.000000, 794.000000)">
+                <g id="quote" transform="translate(0.000000, 77.000000)">
+                    <path
+                        d="M188.112994,289 C224.40678,289 257.40113,261.836735 257.40113,220.680272 C257.40113,186.931973 236.779661,165.530612 210.384181,156.47619 C218.632768,130.959184 249.977401,93.0952381 264,80.7482993 L218.632768,47 C165.016949,82.3945578 118,144.129252 118,209.979592 C118,260.190476 150.169492,289 188.112994,289 Z M345.112994,289 C381.40678,289 414.40113,261.836735 414.40113,220.680272 C414.40113,186.931973 393.779661,165.530612 367.384181,156.47619 C376.457627,130.136054 406.152542,93.9183673 421,80.7482993 L375.632768,47 C322.841808,81.5714286 275,144.952381 275,209.979592 C275,260.190476 306.344633,289 345.112994,289 Z"
+                        id="quote-visual.bg"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

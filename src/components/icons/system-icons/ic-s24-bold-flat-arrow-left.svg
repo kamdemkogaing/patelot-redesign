@@ -1,0 +1,10 @@
+<svg id="ICON" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001b41;
+      }
+    </style>
+  </defs>
+  <path id="ic-s24-bold-flat-arrow-left" class="cls-1" d="M14,22a2,2,0,0,1-1.6-.8l-6-8a2,2,0,0,1,0-2.4l6-8a2,2,0,1,1,3.2,2.4L10.5,12l5.1,6.8A2,2,0,0,1,14,22Z"/>
+</svg>

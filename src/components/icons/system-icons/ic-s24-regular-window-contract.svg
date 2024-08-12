@@ -1,0 +1,10 @@
+<svg id="ICON" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001b41;
+      }
+    </style>
+  </defs>
+  <path id="ic-s24-regular-window-contract" class="cls-1" d="M15,21a1,1,0,0,1-1-1V15a1,1,0,0,1,1-1h5a1,1,0,0,1,0,2H16v4A1,1,0,0,1,15,21Zm-5-1V15a1,1,0,0,0-1-1H4a1,1,0,0,0,0,2H8v4a1,1,0,0,0,2,0ZM21,9a1,1,0,0,0-1-1H16V4a1,1,0,0,0-2,0V9a1,1,0,0,0,1,1h5A1,1,0,0,0,21,9ZM10,9V4A1,1,0,0,0,8,4V8H4a1,1,0,0,0,0,2H9A1,1,0,0,0,10,9Z"/>
+</svg>
