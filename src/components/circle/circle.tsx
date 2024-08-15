@@ -1,11 +1,9 @@
 import { memo } from "react";
-import {
-  Harvey40Url,
-  Harvey41Url,
-  Harvey42Url,
-  Harvey43Url,
-  Harvey44Url,
-} from "../icons";
+import Harvey40Url from "../icons/miscellaneous/0-4-harvey.svg";
+import Harvey41Url from "../icons/miscellaneous/1-4-harvey.svg";
+import Harvey42Url from "../icons/miscellaneous/2-4-harvey.svg";
+import Harvey43Url from "../icons/miscellaneous/3-4-harvey.svg";
+import Harvey44Url from "../icons/miscellaneous/4-4-harvey.svg";
 import { Image } from "../image/image";
 
 type ICircle = {
